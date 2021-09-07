@@ -1,7 +1,9 @@
-# FEWD-Project
-A website for the game Valorant which is made using HTML, CSS, JavaScript and Bootstrap.
+# FEWD-I1
 
-How to run:
-->Go to src folder
-->Open index.html file in your desired browser
-->enjoy and submit any queries!
+A basic website for submission of Front-end web development Internship Programme!
+
+### How to run:
+
+1. Go to src folder
+2. Open index.html file in your desired browser
+3. enjoy and submit any queries!
