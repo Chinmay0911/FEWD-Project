@@ -1,6 +1,6 @@
 # FEWD-I1
 
-A basic website for submission of Front-end web development Internship Programme!
+A basic website for valorant game made for the submission of Front-end web development Internship Program!
 
 ### How to run:
 
